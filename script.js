@@ -123,7 +123,7 @@ let shinobiWorld = [
     rang: "Kazekage",
     vallage: "Sand Village",
     image:
-      "https://www.looper.com/img/gallery/the-untold-truth-of-narutos-gaara/intro-1650993663.jpg",
+      "https://images.goodsmile.info/cgm/images/product/20180625/7379/52816/large/2d7027ed961d09b0cc175079f4802348.jpg",
   },
   {
     name: "Yamato",
@@ -132,7 +132,7 @@ let shinobiWorld = [
     rang: "Jonin",
     vallage: "Leafy Village",
     image:
-      "https://i.pinimg.com/736x/9d/1d/f4/9d1df48c892e2999ca76ba5aa5a5c812.jpg",
+      "https://ru.myanimeshelf.com//upload/dynamic/2012-01/21/2101.jpeg",
   },
   {
     name: "Jiraya",
@@ -159,7 +159,7 @@ let shinobiWorld = [
     rang: "Sanin",
     vallage: "Leafy Village",
     image:
-      "https://rukminim2.flixcart.com/image/850/1000/l0pm3680/action-figure/4/m/c/3-naruto-anime-tsunade-figurine-28cm-for-home-decors-office-desk-original-imagcfnxg3ybcsvu.jpeg?q=90",
+      "https://m.media-amazon.com/images/I/51Dc2JZ+iwL.jpg",
   },
   {
     name: "Hiruzen",
@@ -331,7 +331,7 @@ let shinobiWorld = [
     rang: "Genin(died)",
     vallage: "Leafy Village",
     image:
-      "https://preview.redd.it/time-for-another-character-rating-how-would-you-rate-obito-v0-hw4rhgk6f7ja1.png?auto=webp&s=59bc6f0b85a2ad25ca8a99d785c20c10ea3d106e",
+      "https://m.media-amazon.com/images/I/61YN8q2ChuL.jpg",
   },
   {
     name: "Hashirama",
@@ -388,13 +388,13 @@ let shinobiWorld = [
       "https://funko.com/dw/image/v2/BGTS_PRD/on/demandware.static/-/Sites-funko-master-catalog/default/dw2baf30eb/images/funko/49804-1.png?sw=800&sh=800",
   },
   {
-    name: "May",
+    name: "Mei",
     clan: "Terumi",
     gender: "Female",
     rang: "Mizukage(was)",
     vallage: "Leafy Village",
     image:
-      "http://pm1.narvii.com/7333/63648fc32a5c89533ff7fef55ae270be736a3a4cr1-600-1003v2_uhq.jpg",
+      "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/5/9/6b3b33df-3235-40d1-9aa4-2e2f9403a9f3.png",
   },
   {
     name: "Suygesu",
@@ -439,7 +439,7 @@ let shinobiWorld = [
     rang: "Jonin",
     vallage: "Leafy Village",
     image:
-      "http://pm1.narvii.com/6916/94118fdc8858f7ea7e8bc71c643585c7203e8526r1-1200-773v2_00.jpg",
+      "https://i.ebayimg.com/images/g/zt0AAOSwWK5lGqke/s-l400.jpg",
   },
   {
     name: "Hagoromo",
@@ -457,7 +457,7 @@ let shinobiWorld = [
     rang: "Killer(died)",
     vallage: "Tooman Village",
     image:
-      "https://jut.su/forum/uploads/attachment/2016-08/1470513375_zabuza_momochi_anime_hd.png",
+      "https://m.media-amazon.com/images/I/61O-AxzSuUL._AC_UF1000,1000_QL80_.jpg",
   },
   {
     name: "Darui",
